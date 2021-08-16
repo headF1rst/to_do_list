@@ -8,29 +8,29 @@ django framework을 사용하여 만든 일정관리 어플리케이션입니다
 
 - 로그인 페이지
 
-<img align = "center" alt = "login" width="700px" src="/image/login.png" />
+<p align = "center"><img alt = "login" width="600px" src="/image/login.png" /></p>
 
 
 - 메인 페이지
 
-<img align = "center" alt = "account" width="700px" src="/image/account.png" />
+<img align = "center" alt = "account" width="600px" src="/image/account.png" />
 
 
 - 일정 추가 
 
-<img align = "center" alt = "schedule" width="700px" src="/image/addSchedule.png" />
+<img align = "center" alt = "schedule" width="600px" src="/image/addSchedule.png" />
 
 <br>
 
-<img align = "center" alt = "schedule" width="700px" src="/image/scheduleAdded.png" />
+<img align = "center" alt = "schedule" width="600px" src="/image/scheduleAdded.png" />
 
 
 - 일정 삭제
 
-<img align = "center" alt = "Remove" width="700px" src="/image/remove.png" />
+<img align = "center" alt = "Remove" width="600px" src="/image/remove.png" />
 
 
 - 다른 계정 회원가입 페이지
 
-<img align = "center" alt = "Register" width="700px" src="/image/register.png" />
+<img align = "center" alt = "Register" width="600px" src="/image/register.png" />
 

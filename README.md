@@ -8,7 +8,7 @@ django framework을 사용하여 만든 일정관리 어플리케이션입니다
 
 - 로그인 페이지
 
-<img align = "center" alt = "login" width="600px" src="/image/login.png" />
+<img align = "center" alt = "login" width="600px" src="/image/account2.png" />
 
 
 - 메인 페이지
